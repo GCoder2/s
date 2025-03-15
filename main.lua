@@ -4,8 +4,8 @@ local LocalPlayer = Players.LocalPlayer
 local TweenService = game:GetService("TweenService")
 
 -- GitHub Raw URLs (Replace with your GitHub username and repo)
-local EN_URL = "https://raw.githubusercontent.com/kullanıcı_adın/XHubScripts/main/XHub_EN.lua" -- Replace with your EN URL
-local TR_URL = "https://raw.githubusercontent.com/kullanıcı_adın/XHubScripts/main/XHub_TR.lua" -- Replace with your TR URL
+local EN_URL = "https://raw.githubusercontent.com/GCoder2/s/refs/heads/main/tr_lang.lua" -- Replace with your EN URL
+local TR_URL = "https://raw.githubusercontent.com/GCoder2/s/refs/heads/main/en_lang.lua" -- Replace with your TR URL
 
 -- Common Functions
 local function CreateButton(frame, name, callback, yPos)
